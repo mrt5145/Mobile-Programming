@@ -1,6 +1,6 @@
-# hw1
+# Homework1
 
-A new Flutter project.
+A new Flutter project. Istanbul University Cerrahpasa / 2020-2021 Mobile Programming
 
 ## Getting Started
 
